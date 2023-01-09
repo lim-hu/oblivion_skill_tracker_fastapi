@@ -61,14 +61,14 @@ SPD removed by 1 (from 3 to 2)
 GET Method, reset collected skill point. You can use it at level up.
 
 ## Requirements
-FastAPI:
+### FastAPI:
 
 *pip install "fastapi[all]"*
 
-PostgreSQL:
+### PostgreSQL:
 
 *pip install psycopg2-binary*
 
-SQLAlchemy:
+### SQLAlchemy:
 
 *pip install sqlalchemy*
