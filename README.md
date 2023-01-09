@@ -1,7 +1,8 @@
 # Oblivion Skill Tracker backend app
 Self made Oblivion skill tracker backend app, created by fastapi
 
-Run the code: uvicode app.main:app
+Run the code: uvicode app.main:app.
+
 Use 127.0.0.1:8000/docs or Postman or Insomnia etc. to use it.
 
 ## Functions:
