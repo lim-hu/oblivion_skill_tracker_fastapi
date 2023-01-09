@@ -1,5 +1,5 @@
 # Oblivion Skill Tracker backend app
-Self made Oblivion skill tracker backend app, created by fastapi
+Self made Oblivion skill tracker backend app, created with fastapi
 
 Run the code: uvicode app.main:app.
 
