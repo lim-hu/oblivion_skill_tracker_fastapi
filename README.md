@@ -1,6 +1,9 @@
 # Oblivion Skill Tracker backend app
 Self made Oblivion skill tracker backend app, created with fastapi
 
+### Before you start the app: create a postgres database and change the database.py file:
+### SQLALCHEMY_DATABASE_URL = 'postgresql://*your_username*:*your_password*@localhost:5432/*database_name*'
+
 Run the code: *uvicode app.main:app*
 
 Use 127.0.0.1:8000/docs or Postman or Insomnia etc. to use it.
