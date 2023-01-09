@@ -62,7 +62,7 @@ GET Method, reset collected skill point. You can use it at level up.
 
 ## Requirements
 FastAPI:
-  pip install "fastapi[all]"
+  *pip install "fastapi[all]"*
 
 PostgreSQL:
   pip install psycopg2-binary
